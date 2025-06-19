@@ -1,6 +1,6 @@
 {
   "author": "Tommi Pisto <tommi@pis.to>",
-  "name": "pdf-fill-form",
+  "name": "pdf-fill-form-17",
   "description": "Fill PDF forms and return rendered PDF in buffer. No temporary files created.",
   "keywords": [
     "pdf",
